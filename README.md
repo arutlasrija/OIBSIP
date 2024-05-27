@@ -1,0 +1,10 @@
+In the First Task: I have worked on a project called Landing Page, which serves as the entry point for a website or a particular section of a website.An independent webpage that a user "lands" on following a click through from an email, advertisement, or other digital source is known as a landing page. Landing pages are an essential component of any content strategy that aims to boost traffic and conversions.A landing page's objective is to turn visitors into leads or customers by offering them a targeted and concentrated experience. Because they provide businesses with an opportunity to establish a favorable first impression and grab the attention of their target audience, landing pages are crucial for lead generation.
+
+In the Second Task: I have worked on a project called Portfolio of myself to show my collection of work that demonstrates my skills and abilities.A portfolio is a compilation of academic and professional materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic.It presents evidence of your relevant skills and abilities. Archiving samples of your work to a portfolio is a great way to keep track of your accomplishments and document when you acquired key competencies.
+
+In the Third Task: I have worked on a project called Temperature Converter, that converts temperature of one form into temperature of another form along with mathematical calculation.Fahrenheit and centigrade are two temperature scales in use today. The Fahrenheit scale was developed by the German physicist Daniel Gabriel Fahrenheit . In the Fahrenheit scale, water freezes at 32 degrees and boils at 212 degrees.
+
+The centigrade scale, which is also called the Celsius scale, was developed by Swedish astronomer Andres Celsius. In the centigrade scale, water freezes at 0 degrees and boils at 100 degrees. The centigrade to Fahrenheit conversion formula is:
+
+C = (5/9) * (F - 32)
+The Overall Internship Experience was Amazing. Oasis Infobyte provides all guidance and support. It was great working here as a Web Development and Designing Intern.
